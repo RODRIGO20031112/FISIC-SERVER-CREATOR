@@ -1,0 +1,9 @@
+Machine ID: 1
+Machine ST: 1
+Machine DM: 0
+|  CPU ID: 1
+|    Plate ID: 1
+|      Bar ID: 1
+|       Chip ID: 1
+|       Chip capacity: 1GB
+Machine capacity: 1 GB
